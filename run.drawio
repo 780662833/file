@@ -1,1 +1,146 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T03:55:17.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.8.1" etag="-SdS9HFkxBIRDNTXi3z5" type="github"><diagram id="1zUkdnlgQMgp4GpfOyRv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-23T04:02:19.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="l7s8-V8G7g0Zm-WGg5wq" version="13.8.1" type="github">
+  <diagram id="1zUkdnlgQMgp4GpfOyRv" name="第 1 页">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="690" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZuaugXSjwG2-j_TUPSIA-6" target="ZuaugXSjwG2-j_TUPSIA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-6" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-7" value="业务发起" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-8" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;initiation&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZuaugXSjwG2-j_TUPSIA-10" target="ZuaugXSjwG2-j_TUPSIA-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-10" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-11" value="指标池创建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-12" value="Index creation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZuaugXSjwG2-j_TUPSIA-14" target="ZuaugXSjwG2-j_TUPSIA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-14" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-15" value="模型规则创建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-16" value="Model rule creation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZuaugXSjwG2-j_TUPSIA-18" target="ZuaugXSjwG2-j_TUPSIA-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-18" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="410" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-19" value="模型创建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-20" value="Model&amp;nbsp; creation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZuaugXSjwG2-j_TUPSIA-21" target="ZuaugXSjwG2-j_TUPSIA-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-21" value="Generating reports" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-22" value="生成报告" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="650" y="150" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="690" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuaugXSjwG2-j_TUPSIA-25" target="ZuaugXSjwG2-j_TUPSIA-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-25" value="cloud data" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="110" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZuaugXSjwG2-j_TUPSIA-27" target="ZuaugXSjwG2-j_TUPSIA-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-27" value="Dosage check" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-28" value="用量核检" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="274" y="350" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-29" value="云数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="170" y="345" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuaugXSjwG2-j_TUPSIA-31" target="ZuaugXSjwG2-j_TUPSIA-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="230" />
+              <mxPoint x="660" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-31" value="调用流程&lt;br&gt;Call process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="330" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-32" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.274;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZuaugXSjwG2-j_TUPSIA-31" target="ZuaugXSjwG2-j_TUPSIA-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-33" value="上传数据&lt;br&gt;&amp;nbsp; upload data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-34" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="290" as="sourcePoint" />
+            <mxPoint x="560" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-35" value="网关&lt;br&gt;gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="470" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-36" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="470" as="sourcePoint" />
+            <mxPoint x="530" y="439" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-37" value="china local api" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-38" value="" style="endArrow=classic;html=1;entryX=0.623;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZuaugXSjwG2-j_TUPSIA-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="550" as="sourcePoint" />
+            <mxPoint x="570" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-39" value="api 接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="530" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-43" value="api/img/table" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="710" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuaugXSjwG2-j_TUPSIA-48" value="结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="770" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
